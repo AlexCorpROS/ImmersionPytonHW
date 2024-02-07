@@ -1,0 +1,86 @@
+[
+    {
+        "Path": "C:\\Work\\PyCharm\\PytoProject\\venv\\hw\\hw8\\ex1",
+        "Type": "directory",
+        "Size": 7953,
+        "parent_directory": ""
+    },
+    {
+        "Path": "123.html",
+        "Type": "file",
+        "Size": 155,
+        "parent_directory": "."
+    },
+    {
+        "Path": "ex1.py",
+        "Type": "file",
+        "Size": 4285,
+        "parent_directory": "."
+    },
+    {
+        "Path": "output.csv",
+        "Type": "file",
+        "Size": 563,
+        "parent_directory": "."
+    },
+    {
+        "Path": "output.json",
+        "Type": "file",
+        "Size": 2058,
+        "parent_directory": "."
+    },
+    {
+        "Path": "output.picle",
+        "Type": "file",
+        "Size": 744,
+        "parent_directory": "."
+    },
+    {
+        "Path": "C:\\Work\\PyCharm\\PytoProject\\venv\\hw\\hw8\\ex1\\dir",
+        "Type": "directory",
+        "Size": 148,
+        "parent_directory": "."
+    },
+    {
+        "Path": "pict.bmp",
+        "Type": "file",
+        "Size": 9,
+        "parent_directory": ".\\dir"
+    },
+    {
+        "Path": "text1.txt",
+        "Type": "file",
+        "Size": 53,
+        "parent_directory": ".\\dir"
+    },
+    {
+        "Path": "text2.pmg.txt",
+        "Type": "file",
+        "Size": 5,
+        "parent_directory": ".\\dir"
+    },
+    {
+        "Path": "C:\\Work\\PyCharm\\PytoProject\\venv\\hw\\hw8\\ex1\\dir\\dir1",
+        "Type": "directory",
+        "Size": 0,
+        "parent_directory": ".\\dir"
+    },
+    {
+        "Path": "C:\\Work\\PyCharm\\PytoProject\\venv\\hw\\hw8\\ex1\\dir\\dir2",
+        "Type": "directory",
+        "Size": 81,
+        "parent_directory": ".\\dir"
+    },
+    {
+        "Path": "test1.txt",
+        "Type": "file",
+        "Size": 81,
+        "parent_directory": ".\\dir\\dir2"
+    },
+    {
+        "Path": "C:\\Work\\PyCharm\\PytoProject\\venv\\hw\\hw8\\ex1\\dir\\dir3",
+        "Type": "directory",
+        "Size": 0,
+        "parent_directory": ".\\dir"
+    }
+]
