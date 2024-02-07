@@ -6,4 +6,8 @@
 2024-02-07 11:54:11,284 - INFO: Выбран файл hw.exe.Абсолютный путь к файлу C:\Work\PyCharm\PytoProject\venv
 2024-02-07 11:55:10,603 - INFO: Выбран каталог 11. Абсолютный путь к каталогу nord
 2024-02-07 11:55:55,958 - INFO: Выбран каталог 11. Абсолютный путь к каталогу nord
-2024-02-07 11:56:12,045 - INFO: Выбран файл hw.exe.Абсолютный путь к файлу C:\Work\PyCharm\PytoProject\venv
+
+2024-02-07 14:14:18,476 - INFO: Выбран файл hw.exe.Абсолютный путь к файлу C:\Work\PyCharm\PytoProject\venv
+2024-02-07 14:14:18,476 - INFO: Записанны данные [Obj_info(name='hw', expansion='exe', catalog=False, home='venv')]
+2024-02-07 14:14:19,884 - INFO: Выбран файл hw.exe.Абсолютный путь к файлу C:\Work\PyCharm\PytoProject\venv
+2024-02-07 14:14:19,884 - INFO: Записанны данные [Obj_info(name='hw', expansion='exe', catalog=False, home='venv')]
